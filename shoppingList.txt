@@ -12,3 +12,4 @@ guava
 watermelon
 blueberry
 Cabbage
+Carrot
