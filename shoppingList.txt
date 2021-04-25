@@ -11,3 +11,5 @@ papaya
 guava
 watermelon
 blueberry
+Cabbage
+Carrot
