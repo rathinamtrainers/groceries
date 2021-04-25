@@ -6,3 +6,4 @@ peach
 grape
 apricot
 plum
+mango
