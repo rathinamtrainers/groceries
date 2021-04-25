@@ -8,3 +8,4 @@ apricot
 plum
 mango
 papaya
+guava
