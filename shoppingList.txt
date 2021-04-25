@@ -9,3 +9,5 @@ plum
 mango
 papaya
 guava
+watermelon
+blueberry
