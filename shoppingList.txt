@@ -7,4 +7,7 @@ grape
 apricot
 plum
 mango
+papaya
 guava
+watermelon
+blueberry
